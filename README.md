@@ -1,2 +1,16 @@
-# codility_lessons_python
-A repo to save my solutions to Codility's Lessons
+# Codility Lessons In Python
+
+I have created this repository to save my answers to the Codility lessons as I might want to revisit them at a later date.
+
+If you stumbled upon this repository and want to have a look at the way I went about solving the problems, go right ahead. 
+
+If you have come up with a more elegant way or a more pythonic way to solve a specific problem, please get in touch as I am always keen to learn new things and improve.
+
+## Tasks
+
+The following is a list of the tasks from the [Codility Lessons](https://app.codility.com/programmers/lessons)
+
+Exercise | Score | Complexity
+-------- | :---: | ----------:
+Lesson 1 - BinaryGap | 100% | O(N)
+
