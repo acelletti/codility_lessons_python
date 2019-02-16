@@ -26,5 +26,6 @@ Lesson 5 - PassingCars | 100% | O(N*2)
 Lesson 5 - GenomicRangeQuery | 100% | O(N + M)
 Lesson 5 - MinAvgTwoSlice | 100% | O(N)
 Lesson 5 - CountDiv | 100% | O(1)
-Lesson 6 - Distinct | 100% | O(N*log(N))
+Lesson 6 - Distinct | 100% | O(N * log(N))
+Lesson 6 - MaxProductOfThree | 100% | O(N * log(N))
 
