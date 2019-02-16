@@ -18,4 +18,4 @@ Lesson 2 - CyclicRotation | 100% | O(1)
 Lesson 3 - FrogJmp | 100% | O(1)
 Lesson 3 - PermMissingElem | 100% | O(N * log(N))
 Lesson 3 - TapeEquilibrium | 100% | O(N)
- 
+Lesson 4 - PermCheck | 100% | O(N * log(N))
