@@ -24,4 +24,5 @@ Lesson 4 - MissingInteger | 100% | O(N * log(N))
 Lesson 4 - MaxCounters | 100% | O(N + M)
 Lesson 5 - PassingCars | 100% | O(N*2)
 Lesson 5 - GenomicRangeQuery | 100% | O(N + M)
+Lesson 5 - MinAvgTwoSlice | 100% | O(N)
 
