@@ -30,7 +30,7 @@ def solution(A):
     element to return.
     """
 
-    # get binary representation of number
+    # get counter for array
     counter = collections.Counter(A)
 
     # initialise counters
