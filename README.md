@@ -15,5 +15,6 @@ Exercise | Score | Complexity
 Lesson 1 - BinaryGap | 100% | O(N)
 Lesson 2 - OddOccurrencesInArray | 100% | O(N * log(N))
 Lesson 2 - CyclicRotation | 100% | O(1)
+Lesson 3 - FrogJmp | 100% | O(1)
 
  
