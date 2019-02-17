@@ -30,4 +30,4 @@ Lesson 6 - Distinct | 100% | O(N * log(N))
 Lesson 6 - MaxProductOfThree | 100% | O(N * log(N))
 Lesson 6 - Triangle | 100% | O(N * log(N))
 Lesson 6 - NumberOfDiscIntersections | 100% | O(N * log(N))
-
+Lesson 6 - Brackets | 100% | O(N)
