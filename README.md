@@ -29,4 +29,5 @@ Lesson 5 - CountDiv | 100% | O(1)
 Lesson 6 - Distinct | 100% | O(N * log(N))
 Lesson 6 - MaxProductOfThree | 100% | O(N * log(N))
 Lesson 6 - Triangle | 100% | O(N * log(N))
+Lesson 6 - NumberOfDiscIntersections | 100% | O(N * log(N))
 
