@@ -28,4 +28,5 @@ Lesson 5 - MinAvgTwoSlice | 100% | O(N)
 Lesson 5 - CountDiv | 100% | O(1)
 Lesson 6 - Distinct | 100% | O(N * log(N))
 Lesson 6 - MaxProductOfThree | 100% | O(N * log(N))
+Lesson 6 - Triangle | 100% | O(N * log(N))
 
