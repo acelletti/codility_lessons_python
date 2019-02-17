@@ -35,4 +35,5 @@ Lesson 7 - Fish | 100% | O(N)
 Lesson 7 - Nesting | 100% | O(N)
 Lesson 7 - StoneWall | 100% | O(N)
 Lesson 8 - EquiLeader | 100% | O(N)
+Lesson 8 - Dominator | 100% | O(N)
 
