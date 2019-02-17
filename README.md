@@ -33,4 +33,5 @@ Lesson 6 - NumberOfDiscIntersections | 100% | O(N * log(N))
 Lesson 7 - Brackets | 100% | O(N)
 Lesson 7 - Fish | 100% | O(N)
 Lesson 7 - Nesting | 100% | O(N)
+Lesson 7 - StoneWall | 100% | O(N)
 
